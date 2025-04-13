@@ -95,6 +95,11 @@
     // console.log("c = " + c);
     // console.log("P = " + (a + b + c));
 }
+
+
+//---------------------------------QOSHIMCHA!--------------------------------------------
+
+
 {
     // 13 - misol
     // var r1 = prompt("R1 (R1 < R2) = ");
@@ -165,5 +170,80 @@
     // console.log("Masofa = " + Math.sqrt((Math.pow(x2 - x1,2) + Math.pow(y2 - y1,2))));
 }
 {
-
+    // 21 - masala
+    // var x1 = prompt("X1 (x1 = y1) = ");
+    // var y1 = prompt("Y1 (x1 = y1) = ");
+    // var x2 = prompt("X2 (x2 = y2) = ");
+    // var y2 = prompt("Y2 (x2 = y2) = ");
+    // var x3 = prompt("X2 (x3 = y3) = ");
+    // var y3 = prompt("Y2 (x3 = y3) = ");
+    // x1 = Number(x1)
+    // y1 = Number(y1)
+    // x2 = Number(x2)
+    // y2 = Number(y2)
+    // x3 = Number(x3)
+    // y3 = Number(y3)
+    // var a = Math.sqrt((x2 - x3)**2 + (y2 - y3)**2);
+    // var b = Math.sqrt((x1 - x3)**2 + (y1 - y3)**2);
+    // var c = Math.sqrt((x1 - x2)**2 + (y1 - y2)**2);
+    // var p = (a + b + c) / 2;
+    // console.log("P = " + p);
+    // var s = Math.sqrt(p * (p - a) * (p - b) * (p - c));
+    // console.log("S = " + s);
+}
+{
+    // 22 - masala 
+    // var a = 5;
+    // var b = 10;
+    // let temp = a;
+    // a = b;
+    // b = temp;
+    // console.log(a);
+    // console.log(b);
+}
+{
+    // 23 - masala
+    // var a = 5;
+    // var b = 10;
+    // var c = 15;
+    // var d = a;
+    // a = b;
+    // b = c;
+    // c = d;
+    // console.log(a);
+    // console.log(b);
+    // console.log(c);
+}
+{
+    // 24 - masala 
+    // var a = 5;
+    // var b = 10;
+    // var c = 15;
+    // var d = c;
+    // c = b;
+    // b = a;
+    // a = d;
+    // console.log(a);
+    // console.log(b);
+    // console.log(c);
+}
+{
+    // 25 - masala 
+    // var x = 4;
+    // var y = (3 * x ** 6) - (6 * x ** 2) - 7
+    // console.log("Y = " + y);
+}
+{
+    // 26 - masala 
+    // var x = 4;
+    // x = Number(x);
+    // console.log("Y = " + Math.abs((4 * (x - 3)**6 -7 * (x - 3)**3 + 2)));
+}
+{
+    // var number = 3654;
+    // var a = number % 10; //4
+    // var b = Math.floor((number % 100) / 10); //5
+    // var c = Math.floor((number % 1000) / 100) //6
+    // var d= Math.floor(number / 1000)
+    // console.log("3654 yigindisi = " + (a + b + c + d))
 }
