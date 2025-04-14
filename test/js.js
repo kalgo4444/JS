@@ -1,2 +1,98 @@
-var a = prompt("Name: ");
-alert("Hi " + a);
+{
+    // t - 1
+    // var number = 3654;
+    // var a = number % 10; //4
+    // var b = Math.floor((number % 100) / 10); //5
+    // var c = Math.floor((number % 1000) / 100) //6
+    // var d= Math.floor(number / 1000)
+    // console.log("3654 yigindisi = " + (a + b + c + d))
+}
+{
+    // t - 2
+//     var n = 107; // to 170
+//     var a = n % 10; //7
+//     var b = Math.floor((n % 10) / 10); //0
+//     var c = Math.floor(n / 100); // 1
+//     var a = String(a)
+//     var b = String(b)
+//     var c = String(c)
+//     console.log(c + a + b);
+}
+{
+    // t - 3
+//     var n = 856; //658
+//     var a = n % 10; //6
+//     var b = Math.floor((n / 10) % 10); //5
+//     var c = Math.floor(n / 100); //8
+//     var a = String(a)
+//     var b = String(b)
+//     var c = String(c)
+//     console.log(a + b + c);
+}
+{
+    // t - 4
+    // var a = 10 //A > 0
+    // if(a > 0){
+    //     console.log(true);
+    // } else {
+    //     console.log(false)
+    // }
+}
+{
+    // t - 5
+    // var n = 10;
+    // if(n % 2 == 0){
+    //     console.log("Toq");
+    // } else {
+    //     console.log("Just");
+        
+    // }
+}
+{
+    // t - 6
+    // var n = 9;
+    // if(n % 2 == 0){
+    //     console.log("Toq");
+    // } else {
+    //     console.log("Juft");
+    // }
+}
+{
+    // t - 7
+    // var a = 3;
+    // var b = 3;
+    // if (a > 2 && b <= 3){
+    //     console.log(true);
+    // } else {
+    //     console.log(false);
+    // }
+}
+{
+    // t - 8
+    // var a = 3;
+    // var b = 0;
+    // if (a >= 0 && b < -2){
+    //     console.log(true);
+    // } else {
+    //     console.log(false);
+    // }
+}
+{
+    // t - 8
+    // var a = 144;
+    // var b = 14;
+    // if (a % 2 == 0 && b % 2 == 0){
+    //     console.log(true);
+    // } else {
+    //     console.log(false);
+    // }
+}
+{
+    // t - 10
+    // var n = 3723;
+    // var h = Math.floor(n / 3600);
+    // var n2 = n - 3600;
+    // var m = Math.floor(123 / 60);
+    // var s = Math.floor(123 - (60 * 2))
+    // console.log("Time " + (h + ":" + m  + ":" + s));
+}

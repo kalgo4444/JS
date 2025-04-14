@@ -239,11 +239,3 @@
     // x = Number(x);
     // console.log("Y = " + Math.abs((4 * (x - 3)**6 -7 * (x - 3)**3 + 2)));
 }
-{
-    // var number = 3654;
-    // var a = number % 10; //4
-    // var b = Math.floor((number % 100) / 10); //5
-    // var c = Math.floor((number % 1000) / 100) //6
-    // var d= Math.floor(number / 1000)
-    // console.log("3654 yigindisi = " + (a + b + c + d))
-}
