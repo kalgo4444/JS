@@ -96,3 +96,53 @@
     // var s = Math.floor(123 - (60 * 2))
     // console.log("Time " + (h + ":" + m  + ":" + s));
 }
+{
+    // t - 11
+    // var n = 15;
+    // if (n % 3 == 0 && n % 5 == 0){
+    //     console.log("FIZBUZZ");
+    // } else {
+    //     if (n % 3 == 0){
+    //         console.log("FIZZ");
+    //     } else {
+    //         if (n % 5 == 0){
+    //             console.log("BUZZ");
+                
+    //         } else {
+    //             console.log(false);
+    //         }
+    //     }
+    // }
+}
+{
+    // t - 12
+    // var y = 2008;
+    // if (y % 4 == 0 && y % 100 != 0 || y % 400 == 0){
+    //     console.log(y + " yili kabisa yili");
+    // } else {
+    //     console.log(y + " yili kabisa yili emas");
+    // }
+}
+{
+    // t - 13 
+    // var a = 18;
+    // var name1 = "Abdulaziz"
+    // var name2 = "Abdugafurov"
+    // if (a % 2 == 0){
+    //     console.log(name1);
+    // } else {
+    //     console.log(name2);
+    // }
+}
+{
+    // t - 14
+    // var a = 10;
+    // var b = 9;
+    // if (a == b){
+    //     console.log(a + b);
+    // } else {
+    //     a = 0;
+    //     b = 0;
+    //     console.log(a + " - " + b);
+    // }
+}
