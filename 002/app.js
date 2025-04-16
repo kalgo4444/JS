@@ -1,6 +1,55 @@
 {
-    // 1 - masala 
+    // 1 - masala
+    // let n = prompt(`Yaxlitlanmagan son kriting`);
+    // let yax = Math.round(n);
+    // console.log(`${n} = ${yax}`);
+}
+{
+    // 2 - masala
+    // let n = prompt(`manfiy son kriting son kriting`);
+    // let mus = Math.abs(n);
+    // console.log(`${n} abs = ${mus}`);
+}
+{
+    // 3 - masala
+    // let num1 = Math.random();
+    // let rN1 = Math.floor(num1 * 100);
+    // console.log(`1 - son>> ${rN1}`);
 
+    // let num2 = Math.random();
+    // let rN2 = Math.floor(num2 * 100);
+    // console.log(`2 - son>> ${rN2}`);
+
+    // let num3 = Math.random();
+    // let rN3 = Math.floor(num3 * 100);
+    // console.log(`3 - son>> ${rN3}`);
+
+    // let num4 = Math.random();
+    // let rN4 = Math.floor(num4 * 100);
+    // console.log(`4 - son>> ${rN4}`);
+    
+    // let num5 = Math.random();
+    // let rN5 = Math.floor(num5 * 100);
+    // console.log(`5 - son>> ${rN5}`);
+    
+    // let overall = (rN1 + rN2 + rN3 + rN4 + rN5) / 5;
+    // console.log(Math.round(overall));
+}
+{
+    // 4 - masala
+    // let dollor = prompt("$ dan qirqazing!");
+    // let kassa = dollor * 11.2356;
+    // console.log(`${dollor} somga chaqsa>> ${Math.round(kassa)}`);
+}
+{
+    // 5 - masala
+    // let year = Math.floor((Math.random() * 26) + 2000);
+
+    // let month = Math.ceil(Math.random() * 12);
+
+    // let day = Math.ceil(Math.random() * 28);
+
+    // console.log(`${year} - yil, ${month} - oy, ${day} - kun!`);
 }
 
 
