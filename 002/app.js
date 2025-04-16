@@ -1,4 +1,13 @@
 {
+    // 1 - masala 
+    
+}
+
+
+__________________________________________Qoshimcha___________________________________________
+
+
+{
     // t - 1
     // var number = 3654;
     // var a = number % 10; //4
@@ -145,4 +154,15 @@
     //     b = 0;
     //     console.log(a + " - " + b);
     // }
+}
+{
+    // let a = prompt(`a = `)
+    // let b = prompt(`b = `)
+    // console.log(`${a} + ${b} = ${Number(a) + Number(b)}`);
+}
+{
+    // const name = prompt("Name: ")
+    // const brith = prompt("Brith: ")
+    // const age = 2025 - brith;
+    // console.log(`${name}  ${age} years old.`);
 }
