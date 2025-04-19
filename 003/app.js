@@ -5,7 +5,6 @@
     //     console.log(num + 1);
     // } else {
     //     console.log(num);
-        
     // }
 }
 {
@@ -14,7 +13,7 @@
     // if (num > 0){
     //     console.log(num + 1);
     // } else {
-    //     console.log(num + 2);
+    //     console.log(num - 2);
     // }
 }
 {
@@ -43,7 +42,7 @@
     // if (num3 > 0) {
     //     r = r + 1
     // }
-    // console.log(r);
+    // console.log(`Musbat = ${r}`);
 }
 {
     // 5 - masala 
@@ -76,18 +75,15 @@
     // let num2 = 4;
     // let r = Math.max(num1, num2);
     // console.log(r);
-
-    // let num1 = 3, num2 = 4, r = Math.max(num1, num2);
-    // console.log(r);
 }
 {
     // 7 - masala 
     // let num1 = 5;
     // let num2 = 4;
     // if (num1 < num2){
-    //     console.log("1");
+    //     console.log("1 tartip raqam");
     // } else if (num2 < num1 ) {
-    //     console.log("2");
+    //     console.log("2 tartip raqam");
     // } else {
     //     console.log("TENG!");
     // }
@@ -97,11 +93,11 @@
     // let num1 = 4;
     // let num2 = 5;
     // if (num1 > num2) {
-    //     console.log(num1);
-    //     console.log(num2);
+    //     console.log(num1 + " kotta");
+    //     console.log(num2 + " kichik");
     // } else if (num2 > num1){
-    //     console.log(num2);
-    //     console.log(num1);
+    //     console.log(num2 + " kotta");
+    //     console.log(num1 + " kichik");
     // } else {
     //     console.log("teng");
     // }
@@ -126,7 +122,7 @@
 }
 {
     // 10 - masala 
-    // let a = 5;
+    // let a = 4;
     // let b = 5;
     // let c = null;
     // if (a == b){
@@ -140,9 +136,42 @@
     //     b = 0
     //     console.log(`a = ${a}`);
     //     console.log(`b = ${b}`);
-
+    // } else {
+    //     console.log("error");
+    // }
+}
+{
+    // 11 - masala 
+    // let a = 11;
+    // let b = 10;
+    // let c;
+    // if (a != b) {
+    //     c = Math.max(a,b);
+    //     a = c
+    //     b = c
+    //     console.log(`a = ${a}`);
+    //     console.log(`b = ${b}`);
+    // } else if (a == b) {
+    //     a = 0
+    //     b = 0
+    //     console.log(`a = ${a}`);
+    //     console.log(`b = ${b}`);
     // } else {
     //     console.log("error");
         
+    // }
+}
+{
+    // 12 - masala
+    // let a = 12;
+    // let b = 11;
+    // let c = 10;
+    // console.log(Math.min(a,b,c));
+    // if (a < b && a < c){
+    //     console.log(a);
+    // } else if (b < c) {
+    //     console.log(b);
+    // } else {
+    //     console.log(c);
     // }
 }
